@@ -49,13 +49,4 @@ $(document).ready(function() {
 			$width.val('');
 		}
 	});
-
-
-
-
-
-
-
-
-
 });
